@@ -1,2 +1,2 @@
 # BabyTimeData
-This library aim to facilitae the data analysis from BabyTime app.
+This library aim to facilitate the data analysis from BabyTime app.
